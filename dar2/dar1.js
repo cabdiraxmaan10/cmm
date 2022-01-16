@@ -1,0 +1,1 @@
+console.log('waa wiil somali ee kabeyra')
